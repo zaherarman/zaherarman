@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hey, I'm Zaher</h1>
+
+<h3 align="center"><b>I'm a Computer Engineering student at the University of Toronto</b></h3>
