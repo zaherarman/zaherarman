@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey, I'm Zaher</h1>
 
-<h3 align="center"><b>I'm an Industrial Engineering student at the University of Toronto</b></h3>
+<h3 align="center"><b>I'm an Industrial (Systems) Engineering student at the University of Toronto</b></h3>
