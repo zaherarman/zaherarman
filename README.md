@@ -1,4 +1,4 @@
-<h1 align="center">
+<div align="center">
   <img 
     src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Medium%20Skin%20Tone.png" 
     alt="Boy Medium Skin Tone" 
@@ -13,7 +13,7 @@
       style="vertical-align: middle;" 
     />
   </a>
-</h1>
+</div>
 
 ```python
 class MyProfile:
