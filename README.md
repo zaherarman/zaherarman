@@ -4,7 +4,7 @@
     alt="Boy Medium Skin Tone" 
     width="40" 
     height="40" 
-    style="vertical-align: middle; margin-right: 10px;" 
+    style="vertical-align: middle; margin-right: 35px;" 
   />
   <a href="https://git.io/typing-svg">
     <img 
