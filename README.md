@@ -24,6 +24,7 @@ class MyProfile:
         self.education = "Industrial and Systems Engineering"
         self.university = "University of Toronto"
         self.location = "Canada"
+        self.website = https://zaherarman.github.io/
         self.role = {
             "current": ["PM @ Bombardier", "Research @ UHN"]
         }
