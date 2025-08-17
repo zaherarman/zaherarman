@@ -1,20 +1,31 @@
-<!--## Hi there 👋
 
-<!--
-**zaherarman/zaherarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Medium%20Skin%20Tone.png" alt="Boy Medium Skin Tone" width="25" height="25" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Hey,+I'm+Zaher!)](https://git.io/typing-svg)</h1>
 
-Here are some ideas to get you started:
+```python
+class MyProfile:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.name = "Arman Zaher"
+        self.education = "Industrial and Systems Engineering"
+        self.university = "University of Toronto
+        self.location = "Canada"
+        self.role = {
+            "current": ["PM @ Bombardier", "Research @ UHN"]
+        }
 
-<h1 align="center">Hey, I'm Zaher</h1>
+    def moreInfo(self):
+        aboutMe = {
+            "currentFocus" : ["Learning more about machine learning, process engineering, pc building, and drones"],
+            "languages" : ["Python", "SQL", "Java", "AMPL", "C++", "Javascript", "HTML/CSS"],
+            "technologies" : {
+                "mobile" : ["learning Swift"],
+                "cloud" : ["AWS"],
+                "microsoft" : ["Excel", "Access", "PowerBI", "Power Apps"],
+                "misc" : ["Git", "Figma", "Docker"]
+            } 
+        }
+        print(aboutMe)
 
-<h3 align="center"><b>I'm an Industrial (Systems) Engineering student at the University of Toronto</b></h3>
+    def say_hi(self):
+        print("Contact me through my email for any inquiries or requests!")
+```
