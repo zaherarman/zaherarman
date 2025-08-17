@@ -1,7 +1,17 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Medium%20Skin%20Tone.png" alt="Boy Medium Skin Tone" width="25" height="25" />
+  <img 
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Medium%20Skin%20Tone.png" 
+    alt="Boy Medium Skin Tone" 
+    width="40" 
+    height="40" 
+    style="vertical-align: middle; margin-right: 10px;" 
+  />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Hey,+I'm+Zaher!" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Hey,+I'm+Zaher!" 
+      alt="Typing SVG" 
+      style="vertical-align: middle;" 
+    />
   </a>
 </h1>
 
