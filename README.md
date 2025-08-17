@@ -30,7 +30,11 @@ class MyProfile:
 
     def moreInfo(self):
         aboutMe = {
-            "currentFocus" : ["Learning more about machine learning, process engineering, pc building, and drones"],
+            "currentFocus" : ["machine learning",
+                              "data science",
+                              "process engineering",
+                              "pc building",
+                              "drones"],
             "languages" : ["Python", "SQL", "Java", "AMPL", "C++", "Javascript", "HTML/CSS"],
             "libraries" : ["NumPy, pandas, Matplotlib, SimPy, PyTorch, GPyTorch, Plotly, Dash"],
             "technologies" : {
