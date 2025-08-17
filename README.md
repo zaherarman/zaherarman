@@ -32,7 +32,7 @@ class MyProfile:
         aboutMe = {
             "currentFocus" : ["Learning more about machine learning, process engineering, pc building, and drones"],
             "languages" : ["Python", "SQL", "Java", "AMPL", "C++", "Javascript", "HTML/CSS"],
-            "libraries" : NumPy, pandas, Matplotlib, SimPy, PyTorch, GPyTorch, Plotly, Dash
+            "libraries" : ["NumPy, pandas, Matplotlib, SimPy, PyTorch, GPyTorch, Plotly, Dash"],
             "technologies" : {
                 "mobile" : ["learning Swift"],
                 "cloud" : [" learning AWS"],
