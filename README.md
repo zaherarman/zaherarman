@@ -2,15 +2,14 @@
   <img 
     src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Medium%20Skin%20Tone.png" 
     alt="Boy Medium Skin Tone" 
-    width="65" 
-    height="65" 
-    style="vertical-align: middle;" 
+    width="80" 
+    height="80" 
   />
+  <br>
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Hey,+I'm+Zaher!" 
+      src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey,+I'm+Zaher!" 
       alt="Typing SVG" 
-      style="vertical-align: middle;" 
     />
   </a>
 </div>
