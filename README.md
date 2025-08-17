@@ -2,9 +2,9 @@
   <img 
     src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Medium%20Skin%20Tone.png" 
     alt="Boy Medium Skin Tone" 
-    width="40" 
-    height="40" 
-    style="vertical-align: middle; margin-right: 100px;" 
+    width="50" 
+    height="50" 
+    style="vertical-align: middle;" 
   />
   <a href="https://git.io/typing-svg">
     <img 
