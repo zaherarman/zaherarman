@@ -2,8 +2,8 @@
   <img 
     src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Medium%20Skin%20Tone.png" 
     alt="Boy Medium Skin Tone" 
-    width="50" 
-    height="50" 
+    width="55" 
+    height="55" 
     style="vertical-align: middle;" 
   />
   <a href="https://git.io/typing-svg">
