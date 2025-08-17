@@ -24,7 +24,7 @@ class MyProfile:
         self.education = "Industrial and Systems Engineering"
         self.university = "University of Toronto"
         self.location = "Canada"
-        self.website = https://zaherarman.github.io/
+        self.website = "https://zaherarman.github.io/"
         self.role = {
             "current": ["PM @ Bombardier", "Research @ UHN"]
         }
@@ -33,7 +33,7 @@ class MyProfile:
         aboutMe = {
             "current_focus" : ["machine learning", "data science", "process engineering", "pc building", "drones"],
             "languages" : ["Python", "SQL", "Java", "AMPL", "C++", "Javascript", "HTML/CSS"],
-            "libraries" : ["NumPy, pandas, Matplotlib, SimPy, PyTorch, GPyTorch, Plotly, Dash"],
+            "libraries" : ["NumPy, pandas, Matplotlib, scipy, sci-kit, SimPy, PyTorch, GPyTorch, Plotly, Dash"],
             "technologies" : {
                 "mobile" : ["learning Swift"],
                 "cloud" : [" learning AWS"],
