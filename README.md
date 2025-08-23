@@ -35,10 +35,10 @@ class MyProfile:
             "languages" : ["Python", "SQL", "Java", "AMPL", "C++", "Javascript", "HTML/CSS"],
             "libraries" : ["NumPy, pandas, Matplotlib, SciPy, scikit-learn, SimPy, PyTorch, GPyTorch, Plotly, Dash"],
             "technologies" : {
-                "mobile" : ["learning Swift"],
-                "cloud" : [" learning AWS"],
+                "mobile" : ["learning"] + ["Swift"],
+                "cloud" : ["learning"] + ["AWS", "Azure"],
                 "microsoft" : ["Excel", "Access", "PowerBI", "Power Apps"],
-                "misc" : ["Git", "Figma", "Docker"]
+                "misc" : ["Git", "Figma", "learning Docker"]
             } 
         }
         print(aboutMe)
