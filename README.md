@@ -18,31 +18,42 @@
 -->
 ```python
 class MyProfile:
-
     def __init__(self):
         self.name = "Arman Zaher"
-        self.education = "Industrial and Systems Engineering"
+        self.education = "BASc in Industrial & Systems Engineering"
         self.university = "University of Toronto"
         self.location = "Canada"
         self.website = "https://zaherarman.github.io/"
-        self.role = {
-            "current": ["PM @ Bombardier", "Research @ UHN"]
+        self.roles = {
+            "current": ["Product Manager @ Bombardier", "Research Assistant @ UHN"]
         }
 
-    def moreInfo(self):
-        aboutMe = {
-            "current_focus" : ["machine learning", "data science", "process engineering", "pc building", "drones"],
-            "languages" : ["Python", "SQL", "Java", "AMPL", "C++", "Javascript", "HTML/CSS"],
-            "libraries" : ["NumPy, pandas, Matplotlib, SciPy, scikit-learn, SimPy, PyTorch, GPyTorch, Plotly, Dash"],
-            "technologies" : {
-                "mobile" : ["learning"] + ["Swift"],
-                "cloud" : ["learning"] + ["AWS", "Azure"],
-                "microsoft" : ["Excel", "Access", "PowerBI", "Power Apps"],
-                "misc" : ["Git", "Figma", "learning Docker"]
-            } 
+    def more_info(self):
+        about_me = {
+            "current_focus": [
+                "Machine Learning",
+                "Data Science",
+                "Process Engineering",
+                "PC Building",
+                "Drones"
+            ],
+            "languages": [
+                "Python", "SQL", "Java", "AMPL", "C++", "JavaScript", "HTML/CSS"
+            ],
+            "libraries": [
+                "NumPy", "pandas", "Matplotlib", "SciPy",
+                "scikit-learn", "SimPy", "PyTorch",
+                "GPyTorch", "Plotly", "Dash"
+            ],
+            "technologies": {
+                "mobile": ["Swift (learning)"],
+                "cloud": ["AWS", "Azure (learning)"],
+                "microsoft": ["Excel", "Access", "Power BI", "Power Apps"],
+                "misc": ["Git", "Figma", "Docker (learning)"]
+            }
         }
-        print(aboutMe)
 
     def say_hi(self):
-        print("Contact me through my email for any inquiries or requests!")
+        print("👋 Contact me through my email for any inquiries or collaborations!")
+
 ```
