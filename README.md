@@ -24,7 +24,7 @@ class MyProfile:
         self.university = "University of Toronto"
         self.location = "Canada"
         self.website = "https://zaherarman.github.io/"
-        self.email = "a.zaher@mail.utoronto.ca
+        self.email = "a.zaher@mail.utoronto.ca"
         self.roles = {
             "current": ["Product Manager @ Bombardier", "Research Assistant @ UHN"]
         }
