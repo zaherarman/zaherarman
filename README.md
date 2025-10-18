@@ -30,16 +30,8 @@ class MyProfile:
 
     def more_info(self):
         about_me = {
-            "current_focus": [
-                "Machine Learning",
-                "Data Science",
-                "Process Engineering",
-                "PC Building",
-                "Drones"
-            ],
-            "languages": [
-                "Python", "SQL", "Java", "AMPL", "C++", "JavaScript", "HTML/CSS"
-            ],
+            "current_focus": ["Machine Learning", "Data Science", "Process Engineering", "Drones"],
+            "languages": ["Python", "SQL", "Java", "AMPL", "C++", "JavaScript", "HTML/CSS"],
             "libraries": [
                 "NumPy", "pandas", "Matplotlib", "SciPy",
                 "scikit-learn", "SimPy", "PyTorch",
@@ -47,13 +39,12 @@ class MyProfile:
             ],
             "technologies": {
                 "mobile": ["Swift (learning)"],
-                "cloud": ["AWS", "Azure (learning)"],
+                "cloud": ["AWS (learning)", "Azure (learning)"],
                 "microsoft": ["Excel", "Access", "Power BI", "Power Apps"],
-                "misc": ["Git", "Figma", "Docker (learning)"]
+                "misc": ["Git", "Figma", "Docker"]
             }
         }
 
     def say_hi(self):
         print("👋 Contact me through my email for any inquiries or collaborations!")
-
 ```
