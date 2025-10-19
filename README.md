@@ -42,7 +42,7 @@ class MyProfile:
                 "mobile": ["Swift (learning)"],
                 "cloud": ["AWS (learning)", "Azure (learning)"],
                 "microsoft": ["Excel", "Access", "Power BI", "Power Apps"],
-                "misc": ["Git", "Figma", "Docker"]
+                "tools": ["Git", "Figma", "Docker"]
             }
         }
 
