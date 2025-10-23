@@ -47,5 +47,5 @@ class MyProfile:
         }
 
     def say_hi(self):
-        print("👋 Contact me through my email for any inquiries!")
+        print("Contact me through my email for any inquiries! 👋 ")
 ```
