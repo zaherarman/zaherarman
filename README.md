@@ -31,7 +31,7 @@ class MyProfile:
 
     def more_info(self):
         about_me = {
-            "current_focus": ["Machine Learning", "Data Science", "Process Engineering", "Drones"],
+            "current_focus": ["Machine Learning", "Data Science", "Drones"],
             "languages": ["Python", "SQL", "Java", "AMPL", "C++", "JavaScript", "HTML/CSS"],
             "libraries": ["NumPy", "pandas", "Matplotlib", "scikit-learn", "SimPy", "PyTorch", "Plotly", "Dash"],
             "technologies": {
