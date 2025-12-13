@@ -22,11 +22,10 @@ class MyProfile:
         self.name = "Arman Zaher"
         self.education = "BASc in Industrial & Systems Engineering"
         self.university = "University of Toronto"
-        self.location = "Canada"
         self.website = "https://zaherarman.github.io/"
         self.email = "a.zaher@mail.utoronto.ca"
         self.roles = {
-            "current": ["Product Manager @ Bombardier", "Data Science @ UHN"]
+            "current": ["Data Science @ UHN"]
         }
 
     def more_info(self):
@@ -35,9 +34,7 @@ class MyProfile:
             "languages": ["Python", "SQL", "Java", "AMPL", "C++", "JavaScript", "HTML/CSS"],
             "libraries": ["NumPy", "pandas", "Matplotlib", "scikit-learn", "SimPy", "PyTorch", "Plotly", "Dash"],
             "technologies": {
-                "mobile": ["Swift (learning)"],
                 "cloud": ["AWS (learning)", "Azure (learning)"],
-                "microsoft": ["Excel", "Access", "Power BI", "Power Apps"],
                 "tools": ["Git", "Figma", "Docker"]
             }
         }
