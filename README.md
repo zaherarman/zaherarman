@@ -26,7 +26,7 @@ class MyProfile:
         self.email = "a.zaher@mail.utoronto.ca"
         self.roles = {
             "current": ["Data Scientist @ RBC", "Data Science @ UHN"],
-            "previously": [PM @ Bombardier, Software Engineer @ UTAT]
+            "previously": ["PM @ Bombardier", "Software Engineer @ UTAT"]
         }
 
     def more_info(self):
