@@ -43,4 +43,8 @@ class MyProfile:
     def say_hi(self):
         print("Contact me through my email for any inquiries! 👋 ")
 ```
-![views](https://komarev.com/ghpvc/?username=zaherarman)
+```python
+# analytics
+# profile_views = dynamic
+```
+![views](https://komarev.com/ghpvc/?username=zaherarman&style=flat&color=grey)
