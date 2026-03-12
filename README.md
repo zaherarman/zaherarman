@@ -43,3 +43,40 @@ class MyProfile:
     def say_hi(self):
         print("Contact me through my email for any inquiries! 👋 ")
 ```
+
+
+<!-- About Me -->
+<pre><code class="language-python">class MyProfile:
+    def __init__(self):
+        self.name = "Arman Zaher"
+        self.education = "BASc in Industrial &amp; Systems Engineering"
+        self.university = "University of Toronto"
+        self.website = "https://zaherarman.github.io/"
+        self.email = "a.zaher@mail.utoronto.ca"
+        self.views = "&lt;dynamic&gt;"
+        self.roles = {
+            "current": ["Data Science @ UHN"],
+            "previously": ["PM @ Bombardier", "Software Engineer @ UTAT"]
+        }
+
+    def more_info(self):
+        about_me = {
+            "current_focus": ["Machine Learning", "Data Science", "Drones"],
+            "languages": ["Python", "SQL", "Java", "AMPL", "C++", "JavaScript", "HTML/CSS"],
+            "libraries": ["NumPy", "pandas", "Matplotlib", "scikit-learn", "SimPy", "PyTorch", "Plotly", "Dash"],
+            "technologies": {
+                "cloud": ["AWS (learning)", "Azure (learning)"],
+                "tools": ["Git", "Figma", "Docker"]
+            }
+        }
+
+    def say_hi(self):
+        print("Contact me through my email for any inquiries! 👋 ")</code></pre>
+
+<!-- Views badge -->
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=zaherarman&style=flat&label=views&color=grey"
+    alt="Profile views"
+  />
+</p>
