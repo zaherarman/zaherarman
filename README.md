@@ -43,4 +43,4 @@ class MyProfile:
     def say_hi(self):
         print("Contact me through my email for any inquiries! 👋 ")
 ```
-[![Profile Views](https://komarev.com/ghpvc/?username=zaherarman&style=for-the-badge&color=000000)](https://github.com/zaherarman)
+![views](https://komarev.com/ghpvc/?username=zaherarman)
