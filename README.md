@@ -24,6 +24,7 @@ class MyProfile:
         self.university = "University of Toronto"
         self.website = "https://zaherarman.github.io/"
         self.email = "a.zaher@mail.utoronto.ca"
+        self.views = ![views](https://komarev.com/ghpvc/?username=zaherarman&style=flat&label=views)
         self.roles = {
             "current": ["Data Science @ UHN"],
             "previously": ["PM @ Bombardier", "Software Engineer @ UTAT"]
