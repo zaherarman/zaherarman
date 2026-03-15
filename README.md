@@ -7,7 +7,7 @@ class MyProfile:
         self.website = "https://zaherarman.github.io/"
         self.email = "a.zaher@mail.utoronto.ca"
         self.roles = {
-            "current": ["Data Scientist @ RBC, UHN & Wizonix"],
+            "current": ["Data Scientist @ RBC, UHN"],
             "previously": ["PM @ Bombardier", "Software Engineer @ UTAT"]
         }
 
