@@ -8,9 +8,11 @@ class MyProfile:
         self.email = "a.zaher@mail.utoronto.ca"
         self.roles = {
             "current": ["Data Scientist @ RBC, UHN"],
-            "previously": ["DS @ Wizonix",
-                           "PM @ Bombardier",
-                           "SWE @ UTAT",]
+            "previously": [
+                "DS @ Wizonix",
+                "PM @ Bombardier",
+                "SWE @ UTAT",
+            ]
         }
 
     def more_info(self):
