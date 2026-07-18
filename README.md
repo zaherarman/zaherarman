@@ -7,7 +7,7 @@ class MyProfile:
         self.website = "https://zaherarman.github.io/"
         self.email = "a.zaher@mail.utoronto.ca"
         self.roles = {
-            "current": ["Data Scientist @ RBC, UHN"],
+            "current": ["Data Scientist @ RBC", "Data Scientist @ UHN"],
             "previously": [
                 "DS @ Wizonix",
                 "PM @ Bombardier",
@@ -17,11 +17,11 @@ class MyProfile:
 
     def more_info(self):
         about_me = {
-            "current_focus": ["Machine Learning", "Data Science", "Drones"],
-            "languages": ["Python", "SQL", "Java", "AMPL", "C++", "JavaScript", "HTML/CSS"],
+            "current_focus": ["Machine Learning", "Data Science", "Agentic AI"],
+            "languages": ["Python", "SQL", "Java"],
             "libraries": ["NumPy", "pandas", "Matplotlib", "scikit-learn", "SimPy", "PyTorch", "Plotly", "Dash"],
             "technologies": {
-                "cloud": ["AWS (learning)", "Azure (learning)"],
+                "cloud": ["AWS (learning)", "Azure (learning)", "Snowflake (learning)"],
                 "tools": ["Git", "Figma", "Docker"]
             }
         }
